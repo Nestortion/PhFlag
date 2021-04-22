@@ -1,0 +1,13 @@
+C:\Users\geron\source\repos\PhFlag\bin\Debug\netcoreapp3.1\PhFlag.exe
+C:\Users\geron\source\repos\PhFlag\bin\Debug\netcoreapp3.1\PhFlag.deps.json
+C:\Users\geron\source\repos\PhFlag\bin\Debug\netcoreapp3.1\PhFlag.runtimeconfig.json
+C:\Users\geron\source\repos\PhFlag\bin\Debug\netcoreapp3.1\PhFlag.runtimeconfig.dev.json
+C:\Users\geron\source\repos\PhFlag\bin\Debug\netcoreapp3.1\PhFlag.dll
+C:\Users\geron\source\repos\PhFlag\bin\Debug\netcoreapp3.1\PhFlag.pdb
+C:\Users\geron\source\repos\PhFlag\obj\Debug\netcoreapp3.1\PhFlag.csprojAssemblyReference.cache
+C:\Users\geron\source\repos\PhFlag\obj\Debug\netcoreapp3.1\PhFlag.AssemblyInfoInputs.cache
+C:\Users\geron\source\repos\PhFlag\obj\Debug\netcoreapp3.1\PhFlag.AssemblyInfo.cs
+C:\Users\geron\source\repos\PhFlag\obj\Debug\netcoreapp3.1\PhFlag.csproj.CoreCompileInputs.cache
+C:\Users\geron\source\repos\PhFlag\obj\Debug\netcoreapp3.1\PhFlag.dll
+C:\Users\geron\source\repos\PhFlag\obj\Debug\netcoreapp3.1\PhFlag.pdb
+C:\Users\geron\source\repos\PhFlag\obj\Debug\netcoreapp3.1\PhFlag.genruntimeconfig.cache
